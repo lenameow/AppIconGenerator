@@ -7,6 +7,5 @@ This app helps app developers create resized app icons easily. Simply select you
 Email: lenahudev@gmail.com
 <br>
 <br>
-
 [Privacy Policy](https://lenameow.github.io/AppIconGenerator/Privacy)\
 [Terms & Conditions](https://lenameow.github.io/AppIconGenerator/TermsAndConditions)
