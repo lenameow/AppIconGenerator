@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ### Introduction
 
 This app helps app developers create resized app icons easily. Simply select your icon from the photo library and choose desired platforms (iPhone, iPad, Apple Watch, Mac), the icon set(s) will be generated instantly and can be sent to your computer through AirDrop / mail / other methods.
@@ -7,7 +5,10 @@ This app helps app developers create resized app icons easily. Simply select you
 ### Feel free to write us if you have any questions or suggestions:
 
 Email: lenahudev@gmail.com
-
+<br>
+<br>
+<br>
+<br>
 
 [Privacy Policy](https://lenameow.github.io/AppIconGenerator/Privacy)
 
